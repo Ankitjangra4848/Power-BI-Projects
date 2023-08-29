@@ -43,3 +43,11 @@ Possible KPIs include (to get you started, but not limited to):
 	Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 ### Dashboard:
  <img width="594" alt="image" src="https://github.com/Ankitjangra4848/Power-BI-Projects/assets/109335109/dce35bc3-5df9-484b-a29b-89cde7c8a8ca">
+
+
+# Data Professional Survey Breakdown
+## Task :
+Create a Power BI Dashboard to extract useful insighs from the data of a Data Professionals Survey.
+### Dashboard:
+ <img width="597" alt="image" src="https://github.com/Ankitjangra4848/Power-BI-Projects/assets/109335109/e0ab19bc-b468-481e-8eba-3456d50667bb">
+
